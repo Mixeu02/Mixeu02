@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Michel</h1>
 
 # 💫 Sobre mim:
-🌱 Estou aprendendo **Spring Boot**<br>👨‍💻 Portfolio [mixeu.dev](mixeu.dev)<br>📫 Contato **contato@mixeu.dev**
+🌱 Estou aprendendo **Spring Boot**<br>👨‍💻 Portfolio [mixeu.dev](mixeu.dev)<br>📫 Contato **mixeudev@gmail.com**
 
 
 # 💻 Linguagens e ferramentas:
