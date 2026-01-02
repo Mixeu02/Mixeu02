@@ -1,7 +1,7 @@
 <h1 align="center">oi</h1>
 
 # eu:
-- gosto de programar e de shoegaze
+- gosto de programar e shoegaze
 
 
 # 💻 linguagens e ferramentas:
